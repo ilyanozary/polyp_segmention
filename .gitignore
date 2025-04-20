@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+
+# Project specific
+models/
+Kvasir-SEG/
+Dataset700_label/
+Dataset700_label.zip
+
+# IDE
+.idea/
+.vscode/
