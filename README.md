@@ -95,7 +95,7 @@ If you use this code in your research, please cite:
   title={Your Paper Title},
   author={Your Name},
   journal={Journal Name},
-  year={2023}
+  year={2025}
 }
 ```
 
