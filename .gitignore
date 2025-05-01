@@ -1,15 +1,56 @@
 # Python
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Virtual Environment
 venv/
 env/
-
-# Project specific
-models/
-Kvasir-SEG/
-Dataset700_label/
-Dataset700_label.zip
+ENV/
 
 # IDE
 .idea/
 .vscode/
+*.swp
+*.swo
+
+# Dataset files
+*.zip
+Dataset700_label/
+Kvasir-SEG/
+
+# Model files
+models/
+*.h5
+*.hdf5
+*.pth
+*.pt
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db

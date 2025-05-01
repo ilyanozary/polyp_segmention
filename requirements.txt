@@ -1,4 +1,6 @@
-albumentations==2.0.5
-opencv-python-headless>=4.9.0.80
-torch>=2.0.0
-numpy>=1.24.4 
+tensorflow>=2.12.0
+numpy>=1.21.0
+opencv-python>=4.5.0
+scikit-learn>=1.0.0
+matplotlib>=3.5.0
+tqdm>=4.65.0 
