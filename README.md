@@ -84,7 +84,7 @@ The model is trained with:
 
 ## License
 
-[Your License]
+
 
 ## Citation
 
